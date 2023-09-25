@@ -161,3 +161,65 @@
   161  cd ..
   162  history
   163  history > clihistory.txt
+  164  ls
+  165  cat clihistory.txt
+  166  git add clihistory.txt
+  167  git add javacode/
+  168  git commmit -m "message"
+  169  git commit -m "message"
+  170  git push -u origin main
+  171  history > clihistory.txt
+  172  cd ~/Downloads/
+  173  cd CISC3115_Tian/
+  174  rm javacode
+  175  pwd
+  176  ls
+  177  rm assignment1
+  178  ls
+  179  rm -r javacode
+  180  ls
+  181  rm -r assignment1
+  182  ls
+  183  vi part2.java
+  184  ls
+  185  history
+  186  history > clihistory.txt
+  187  git push -u origin main
+  188  history > clihistory.txt
+  189  git clone https://github.com/Tianyuwu0725/CISC3115_Tian.git
+  190  git push -u origin main
+  191  ls
+  192  git push -u origin main
+  193  history > clihistory.txt
+  194  ls
+  195  pwd
+  196  ls
+  197  history
+  198  ls
+  199  git push -u origin main
+  200  ls
+  201  git commit -m "message"
+  202  ls part2/
+  203  ls
+  204  cd part2
+  205  cd part2/
+  206  cd part2.java
+  207  ls
+  208  rm -r part2
+  209  history
+  210  rm -r part2
+  211  ls
+  212  rm part2
+  213  rm -r part2.java
+  214  ls
+  215  cd javacode
+  216  mkdir javacode
+  217  cd javacode
+  218  vi part2.java
+  219  ls
+  220  cd ../
+  221  ls
+  222  git add javacode/
+  223  git commit -m "message"
+  224  git push -u origin main
+  225  history > clihistory.txt
