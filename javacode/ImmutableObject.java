@@ -4,18 +4,16 @@ public class ImmutableObject {
 	
 		double farenheit=98.6;
 		double centigrade;
-		
-		centigrade=(double)5/9*(farenheit-32);
 	
-		for(int i=0;i<=40;i++) {
-			i+=4;
+		for(double i=0.0;i<=40.0;i+=4) {
+			centigrade=(double)5/9*(i-32);
 			System.out.println(centigrade);
-			
 		}
 		double x=0.0;
 		while(x<=40.0) {
-			System.out.print(centigrade + " ,");
+			centigrade=(double)5/9*(x-32);
 			x+=4.0;
+			System.out.print(centigrade+ " ,");
 		}
 		System.out.println("\n");
 		StopChecking();
