@@ -1,0 +1,70 @@
+13.1
+b) is a legal abstract class because it is declared as abstract and it has an abstract method
+
+13.3
+because numberRef is integer object, the (Double) is try to make numberRef to integer, it type cast error
+
+13.5
+it throw out the ArrayStoreException, because it wants to change the integer array to "double" element
+
+13.6
+3
+3.0
+
+13.7
+The method compareTo(Integer) is undefined for the type Number
+
+13.8
+the method already return as int value, so the (Integer) is unneccesary
+
+13.13
+no. can't use the new in instance of an interface
+13.14
+yes
+
+13.15
+interface A { void print(); } is the correct one. it has interface named A and method print();
+
+13.16
+when you implements the class you should use public before the void, for eample public void m1()
+
+13.17
+True. if the class implements are comparable, means the class can be compared to other
+
+13.18
+public int compareTo(String o) this allow to compare string with other string object
+
+13.19
+no. because object does not have compareTo method
+
+13.20
+more easy to sort and easy to uesd in collection
+
+13.21
+person class need to implement to comparable interface
+
+13.22
+if the object does not implement the java.lang.Cloneable. you can't invoke the clone()
+
+13.23
+
+13.24
+it will print out the current time. and it will be true
+
+13.25
+true
+false
+list is [New York, Atlanta]
+list1 is [New York, Atlanta]
+list2.get(0) New York
+list2.size() is 2
+
+13.26
+clone method return object, not GeometricObject
+
+13.29
+A.False
+B.True
+C.True
+D.False
+F.False
